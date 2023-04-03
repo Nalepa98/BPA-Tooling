@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BPA-Tooling/static/css/main.d8b92ed9.css",
+    "main.js": "/BPA-Tooling/static/js/main.c759d09a.js",
+    "static/js/787.bfc4cc77.chunk.js": "/BPA-Tooling/static/js/787.bfc4cc77.chunk.js",
+    "static/media/pg05.jpg": "/BPA-Tooling/static/media/pg05.45429eb19929a99b784e.jpg",
+    "static/media/pg06.jpg": "/BPA-Tooling/static/media/pg06.5c96b346dd4a608de63c.jpg",
+    "static/media/pg04.jpg": "/BPA-Tooling/static/media/pg04.a5a2865a23ea08e7952b.jpg",
+    "static/media/pg07.jpg": "/BPA-Tooling/static/media/pg07.5d9c291f1cbabd5a54eb.jpg",
+    "static/media/pg08.jpg": "/BPA-Tooling/static/media/pg08.ff5ab436651caf186e94.jpg",
+    "static/media/pg02.jpg": "/BPA-Tooling/static/media/pg02.72104109231c11533270.jpg",
+    "static/media/pg03.jpg": "/BPA-Tooling/static/media/pg03.33535d6ca61f6c08c74a.jpg",
+    "static/media/pg01.jpg": "/BPA-Tooling/static/media/pg01.07f00978c9bae40e97ba.jpg",
+    "index.html": "/BPA-Tooling/index.html",
+    "main.d8b92ed9.css.map": "/BPA-Tooling/static/css/main.d8b92ed9.css.map",
+    "main.c759d09a.js.map": "/BPA-Tooling/static/js/main.c759d09a.js.map",
+    "787.bfc4cc77.chunk.js.map": "/BPA-Tooling/static/js/787.bfc4cc77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b92ed9.css",
+    "static/js/main.c759d09a.js"
+  ]
+}
